@@ -1,0 +1,15 @@
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.exe
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.deps.json
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.runtimeconfig.json
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.dll
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.pdb
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.AssemblyInfo.cs
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.dll
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\refint\Trabajo Practico 1.dll
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.pdb
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.genruntimeconfig.cache
+E:\universidad\programación 2023\Trabajo Practico 1\Trabajo Practico 1\obj\Debug\net7.0\ref\Trabajo Practico 1.dll
